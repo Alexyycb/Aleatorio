@@ -1,0 +1,9 @@
+!
+hr
+br
+p
+h1
+img scr=""
+arquivo.html
+style
+pt-br
